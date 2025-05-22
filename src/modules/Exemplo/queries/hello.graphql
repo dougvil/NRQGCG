@@ -1,0 +1,5 @@
+query HelloMessage($params: HelloQueryInput!) {
+  hello(params: $params) {
+    message
+  }
+}

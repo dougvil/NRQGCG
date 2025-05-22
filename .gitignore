@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Codegen
+src/server/graphql.ts
+src/server/merged.schema.graphql
