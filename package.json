@@ -29,8 +29,6 @@
     "graphql": "^16.11.0",
     "graphql-tag": "^2.12.6",
     "graphql-tools": "^9.0.18",
-    "jotai": "^2.12.4",
-    "jotai-resetter": "^1.0.9",
     "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
